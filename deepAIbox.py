@@ -9,7 +9,7 @@ import platform
 from datetime import datetime
 
 # API配置
-API_KEY = 'sk-dpfnluvscykqowvqieqnkqlmidluthutergmlartjyrzjdbo'
+API_KEY = 'your api key'
 API_URL = 'https://api.siliconflow.cn/v1/chat/completions'
 
 def get_appdata_path():
