@@ -1,6 +1,6 @@
 {
     "version": "1.2.0",
     "changelog": "1. 新增自动更新功能\n2. 优化文件传输",
-    "download_url": "https://github.com/youansen/AIchat/releases/download/v0.4-bate/deepAIbox.exe",
-    "sha256": "2ca64417018a9d6cdb3052c0d3e6ff1fdbbb7ac60715a35799cef6b699559136"
+    "download_url": "https://github.com/youansen/AIchat/releases/download/v0.4-bate/deepAIbox.zip",
+    "sha256": "37a41cbb6e09ebf23684a0acb939186b6407cc2f321ba706619689992f6ff055"
 }
